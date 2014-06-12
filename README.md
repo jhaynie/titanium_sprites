@@ -1,3 +1,5 @@
+DON'T USE THIS -- IT IS NO LONGER MAINTAINED.  USE [LANICA](http://lanica.co) INSTEAD.
+
 Appcelerator Titanium Sprite Module for iOS
 ==========================================
 
